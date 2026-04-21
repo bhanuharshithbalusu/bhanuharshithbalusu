@@ -83,18 +83,7 @@ AI Engineer building systems with LLMs, RAG, and autonomous agents
   🔗 https://github.com/bhanuharshithbalusu/multi-agentic-rag 
 ---
 
-### 📊 Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanuharshithbalusu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuharshithbalusu&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuharshithbalusu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 
 <div align="center">
