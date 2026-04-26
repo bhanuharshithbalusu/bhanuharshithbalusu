@@ -45,7 +45,9 @@ AI Engineer building systems with LLMs, RAG, and autonomous agents
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Vector%20DB-00C9A7?style=for-the-badge" />
 </p>
+
 #### ⚙️ Languages & Backend
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
